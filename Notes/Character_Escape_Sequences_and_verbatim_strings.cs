@@ -35,3 +35,45 @@ Console.WriteLine("c:\\source\\repos");
 
 Console.WriteLine(@"   c:\source\repos   
       (this is where your code goes)");
+
+
+//Unicode Escape Characters
+
+//You can also add encoded characters in literal strings using the \u escape sequence,
+//then a four-character code representing some character in Unicode (UTF-16).
+
+// Kon'nichiwa World
+Console.WriteLine("\u3053\u3093\u306B\u3061\u306F World!");
+
+
+//There are several caveats here. First, some consoles like the Windows Command Prompt will not display all Unicode characters. 
+//It will replace those characters with question mark characters instead. 
+//Also, the examples used here are UTF-16. 
+//Some characters require UTF-32 and therefore require a different escape sequence. 
+//This is a complicated subject, and this module is only aiming at showing you what is possible. 
+//Depending on your need, you may need to spend quite a bit of time learning and working with Unicode characters in your applications.
+
+//Format the output of the command-line application using unicode escape characters
+
+//To complete the mocked up command-line user interface, we'll add a phrase in Japanese that translates to "To generate Japanese invoices", then provides a verbatim literal string with the application executable with a flag. 
+//We'll also add some escape sequences for formatting.
+
+Console.WriteLine("Generating invoices for customer \"ABC Corp\" ...\n");
+Console.WriteLine("Invoice: 1021\t\tComplete!");
+Console.WriteLine("Invoice: 1022\t\tComplete!");
+Console.WriteLine("\nOutput Directory:\t");
+Console.Write(@"c:\invoices");
+
+// To generate Japanese invoices:
+// Nihon no seikyū-sho o seisei suru ni wa:
+Console.Write("\n\n\u65e5\u672c\u306e\u8acb\u6c42\u66f8\u3092\u751f\u6210\u3059\u308b\u306b\u306f\uff1a\n\t");
+Console.WriteLine(@"c:\invoices\app.exe -j");
+
+//RECAP
+//Here's the most important items to remember about formatting literal strings:
+
+//Use character escape sequences when you need to insert a special character into a literal string, like a tab \t, new line \n, or a double quotation mark \".
+//Use an escape character for the backslash \\ when you need to use a backslash in all other scenarios.
+//Use the @ directive to create a verbatim string literal that keeps all whitespace formatting and backslash characters in a string.
+//Use the \u plus a four-character code to represent Unicode characters (UTF-16) in a string.
+//Unicode characters may not print out correctly depending on the application.

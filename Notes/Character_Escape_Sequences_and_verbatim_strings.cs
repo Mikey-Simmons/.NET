@@ -10,7 +10,7 @@
 
 //The following code uses escape character sequences to add whitespace.
 
-Console.WriteLine("Hello\nWorld!");
+Console.WriteLine("Hello\nWorld! These are my c# notes!");
 Console.WriteLine("Hello\tWorld!");
 
 //What if you need to insert a double-quotation mark in a literal string? If you don't use the character escape sequence, 

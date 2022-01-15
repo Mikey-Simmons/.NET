@@ -1,0 +1,28 @@
+C# Notes
+String concatenation is "programmer speak" for simply combining two or more values into a new value. 
+Unlike addition, the second value is appended to the end of the first value, and so on.
+
+
+To concatenate two strings together, you use the string concatenation operator, which is the plus symbol +.
+
+Code:
+    string firstName = "Bob";
+    string message = "Hello " + firstName;
+    Console.WriteLine(message);
+
+Notice the order -- the first string "Hello " is first in the new string, and the value in the firstName variable is appended to the end of it.
+
+You can perform several concatenation operations in the same line of code.
+
+Code:
+    string firstName = "Bob";
+string greeting = "Hello";
+string message = greeting + " " + firstName + "!";
+Console.WriteLine(message);
+
+Unless you have a good reason to do so, you can (and should) avoid using intermediate variables by performing the concatenation operation as you need it.
+
+Code:
+    string firstName = "Bob";
+    string greeting = "Hello";
+    Console.WriteLine(greeting + " " + firstName + "!");

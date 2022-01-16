@@ -2,3 +2,33 @@ String Interpolation C# Notes
 
 While string concatenation is simple and convenient, string interpolation is growing in popularity 
 in situations where you need to combine many literal strings and variables into a single formatted message.
+
+String interpolation combines multiple values into a single literal string by using a "template" and one or more interpolation expressions. 
+An interpolation expression is a variable surrounded by an opening and closing curly brace symbol { }. 
+The literal string becomes a template when it's prefixed by the $ character.
+
+In other words, instead of writing the following line of code:
+    string message = greeting + " " + firstName + "!";
+You can write this more concise line of code instead:
+    string message = $"{greeting} {firstName}!";
+
+code:
+    string firstName = "Bob";
+    string greeting = "Hello";
+    Console.WriteLine($"{greeting} {firstName}!");
+
+Output:
+    Hello Bob!
+
+Suppose you need to use a verbatim literal in your template. 
+You can use both the verbatim literal prefix symbol @ and the string interpolation $ symbol together.
+
+code:
+    string projectName = "First-Project";
+    Console.WriteLine($@"C:\Output\{projectName}\Data");
+Output:
+    C:\Output\First-Project\Data
+
+Recap:
+    String interpolation provides an improvement over string concatenation by reducing the number of characters required in some situations.
+    You can combine string interpolation and verbatim literals by combining the symbols for each and using that as a prefix for the string template.

@@ -1,0 +1,31 @@
+C# Math Operators
+
+Write code to perform addition, subtraction, multiplication, and division with ints.
+
+Code:
+    int sum = 7 + 5;
+    int difference = 7 - 5;
+    int product = 7 * 5;
+    int quotient = 7 / 5;
+
+    Console.WriteLine("Sum: " + sum);
+    Console.WriteLine("Difference: " + difference);
+    Console.WriteLine("Product: " + product);
+    Console.WriteLine("Quotient: " + quotient);
+
+Output:
+    Sum: 12
+    Difference: 2
+    Product: 35
+    Quotient: 1
+
+As you can see:
+
++ is the addition operator
+- is the subtraction operator
+* is the multiplication operator
+/ is the division operator
+
+However, the resulting quotient of our division example may not be what you may have expected.
+The values after the decimal are truncated from quotient since it is defined as an int, and int cannot contain values after the decimal.
+

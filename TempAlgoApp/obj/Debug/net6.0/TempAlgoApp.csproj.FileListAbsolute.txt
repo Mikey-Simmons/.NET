@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\TempAlgoApp\bin\Debug\net6.0\TempAlgoApp.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\TempAlgoApp\bin\Debug\net6.0\TempAlgoApp.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\TempAlgoApp\bin\Debug\net6.0\TempAlgoApp.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\TempAlgoApp\bin\Debug\net6.0\TempAlgoApp.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\TempAlgoApp\bin\Debug\net6.0\ref\TempAlgoApp.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\TempAlgoApp\bin\Debug\net6.0\TempAlgoApp.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\TempAlgoApp\obj\Debug\net6.0\TempAlgoApp.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\TempAlgoApp\obj\Debug\net6.0\TempAlgoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\TempAlgoApp\obj\Debug\net6.0\TempAlgoApp.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\TempAlgoApp\obj\Debug\net6.0\TempAlgoApp.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\TempAlgoApp\obj\Debug\net6.0\TempAlgoApp.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\TempAlgoApp\obj\Debug\net6.0\TempAlgoApp.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\TempAlgoApp\obj\Debug\net6.0\ref\TempAlgoApp.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\TempAlgoApp\obj\Debug\net6.0\TempAlgoApp.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\TempAlgoApp\obj\Debug\net6.0\TempAlgoApp.genruntimeconfig.cache

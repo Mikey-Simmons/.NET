@@ -1,0 +1,38 @@
+To add two numbers together, we'll use the addition operator, which is the plus symbol +. 
+Yes, the same plusou use for string concatenation is also used for addition. 
+The reuse of one symbol for multiple purposes is sometimes called "overloading the operator" and happens frequently in C#.
+In this instance, the C# compiler understands what you're attempting to do.
+The compiler parses your code and sees that the + (the operator) is surrounded by two numeric values (the operands). 
+Given the data types of the variables (both are ints), 
+it figures out that you intended to add those two values.
+
+code:
+    int firstNumber = 12;
+    int secondNumber = 7;
+    Console.WriteLine(firstNumber + secondNumber);
+Output: 19
+
+What happens if we try to use the + symbol with both string and int values?
+
+code:
+    string firstName = "Bob";
+    int widgetsSold = 7;
+    Console.WriteLine(firstName + " sold " + widgetsSold + " widgets.");
+    
+Output:
+    Bob sold 7 widgets.
+In this case, the C# compiler understands that we want to use the + symbol to concatenate the two operands. 
+It deduces this because the + symbol is surrounded by operands of string and int data types. 
+So, it attempts to implicitly convert the int variable widgetsSold into a string temporarily so it can concatenate it to the rest of the string. 
+The C# compiler tries to help you when it can, but ideally, you would be explicit about your intentions.
+
+
+code: 
+    string firstName = "Bob";
+    int widgetsSold = 7;
+    Console.WriteLine(firstName + " sold " + widgetsSold + 7 + " widgets.");
+
+output:
+    Bob sold 77 widgets.
+
+Instead of adding the int variable widgetsSold to the literal int 7, the compiler treats everything as a string and concatenates it all together.

@@ -1,0 +1,32 @@
+Michael Simmons 
+1/18/2022
+
+
+Potential uses of white-hat hacker:
+
+    - Their job responsibilities entail identifying loopholes in systems and helping improve security
+    - To protect services and systems against attacks, white hat hackers go behind the scenes to thwart attacks in real-time and before they even happen
+    - Sometimes a White Hat hacker also ends up becoming responsible for not just the digital aspect of Cyber Security but for the hardware end of it was well
+
+Ethical debate of hacktivists:
+
+    -Hacktivist are groups of hackers that carry out cyber attacks in support of political causes.
+    -Some may think they are doing a good thing by helping their cause, however these issues are often very complex and highly debatable
+    -The most infamous example of this is the group "Anonymous"
+
+Research forms of authorization and ideate a new form of authentication:
+
+    -Facial recognition
+    -Thumbprint
+    -Speaker recognition
+    -Eye Scanner
+    -Token based authentication
+    -biometric authentication
+    -password-based
+    -multi-factor authentication
+
+Research the social impact of the digital divide and explain ways of minimizing said impact.
+
+-Increase Affordability for internet/computers/tablets/phones etc.
+-Educational pathways to use the internet
+-Update and/or expand existing Affordability programs.

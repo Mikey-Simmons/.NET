@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\EmployeeInfo\EmployeeInformation\obj\Debug\net6.0\EmployeeInformation.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\EmployeeInfo\EmployeeInformation\obj\Debug\net6.0\EmployeeInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\EmployeeInfo\EmployeeInformation\obj\Debug\net6.0\EmployeeInformation.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\EmployeeInfo\EmployeeInformation\obj\Debug\net6.0\EmployeeInformation.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\EmployeeInfo\EmployeeInformation\obj\Debug\net6.0\EmployeeInformation.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\EmployeeInfo\EmployeeInformation\bin\Debug\net6.0\EmployeeInformation.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\EmployeeInfo\EmployeeInformation\bin\Debug\net6.0\EmployeeInformation.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\EmployeeInfo\EmployeeInformation\bin\Debug\net6.0\EmployeeInformation.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\EmployeeInfo\EmployeeInformation\bin\Debug\net6.0\EmployeeInformation.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\EmployeeInfo\EmployeeInformation\bin\Debug\net6.0\ref\EmployeeInformation.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\EmployeeInfo\EmployeeInformation\bin\Debug\net6.0\EmployeeInformation.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\EmployeeInfo\EmployeeInformation\obj\Debug\net6.0\EmployeeInformation.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\EmployeeInfo\EmployeeInformation\obj\Debug\net6.0\ref\EmployeeInformation.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\EmployeeInfo\EmployeeInformation\obj\Debug\net6.0\EmployeeInformation.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\EmployeeInfo\EmployeeInformation\obj\Debug\net6.0\EmployeeInformation.genruntimeconfig.cache

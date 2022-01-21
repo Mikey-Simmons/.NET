@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "562f0e17-8474-4c5b-acae-6dc186221595": {
+      "ProjectGuid": "562f0e17-8474-4c5b-acae-6dc186221595",
+      "DisplayName": "EmployeeInformation",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a391c0d2-606f-4341-bc51-191218ba7811": {
+      "ProjectGuid": "a391c0d2-606f-4341-bc51-191218ba7811",
+      "DisplayName": "OperatorsActivity",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -19,3 +19,4 @@
     return isAllTrue;
 }
 
+Console.ReadLine();

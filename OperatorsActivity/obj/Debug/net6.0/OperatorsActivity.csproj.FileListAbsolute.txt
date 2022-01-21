@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\OperatorsActivity\obj\Debug\net6.0\OperatorsActivity.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\OperatorsActivity\obj\Debug\net6.0\OperatorsActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\OperatorsActivity\obj\Debug\net6.0\OperatorsActivity.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\OperatorsActivity\obj\Debug\net6.0\OperatorsActivity.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\OperatorsActivity\obj\Debug\net6.0\OperatorsActivity.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\OperatorsActivity\bin\Debug\net6.0\OperatorsActivity.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\OperatorsActivity\bin\Debug\net6.0\OperatorsActivity.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\OperatorsActivity\bin\Debug\net6.0\OperatorsActivity.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\OperatorsActivity\bin\Debug\net6.0\OperatorsActivity.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\OperatorsActivity\bin\Debug\net6.0\ref\OperatorsActivity.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\OperatorsActivity\bin\Debug\net6.0\OperatorsActivity.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\OperatorsActivity\obj\Debug\net6.0\OperatorsActivity.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\OperatorsActivity\obj\Debug\net6.0\ref\OperatorsActivity.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\OperatorsActivity\obj\Debug\net6.0\OperatorsActivity.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\OperatorsActivity\obj\Debug\net6.0\OperatorsActivity.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\SumIntergers\SumIntergers\bin\Debug\net6.0\SumIntergers.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\SumIntergers\SumIntergers\bin\Debug\net6.0\SumIntergers.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\SumIntergers\SumIntergers\bin\Debug\net6.0\SumIntergers.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\SumIntergers\SumIntergers\bin\Debug\net6.0\SumIntergers.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\SumIntergers\SumIntergers\bin\Debug\net6.0\ref\SumIntergers.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\SumIntergers\SumIntergers\bin\Debug\net6.0\SumIntergers.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\SumIntergers\SumIntergers\obj\Debug\net6.0\SumIntergers.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\SumIntergers\SumIntergers\obj\Debug\net6.0\SumIntergers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\SumIntergers\SumIntergers\obj\Debug\net6.0\SumIntergers.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\SumIntergers\SumIntergers\obj\Debug\net6.0\SumIntergers.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\SumIntergers\SumIntergers\obj\Debug\net6.0\SumIntergers.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\SumIntergers\SumIntergers\obj\Debug\net6.0\SumIntergers.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\SumIntergers\SumIntergers\obj\Debug\net6.0\ref\SumIntergers.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\SumIntergers\SumIntergers\obj\Debug\net6.0\SumIntergers.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\SumIntergers\SumIntergers\obj\Debug\net6.0\SumIntergers.genruntimeconfig.cache

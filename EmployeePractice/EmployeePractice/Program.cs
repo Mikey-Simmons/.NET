@@ -9,4 +9,4 @@ int i = Convert.ToInt32(x);
 int j = Convert.ToInt32(y);
 int k = Convert.ToInt32(t);
 int z = i + j+k;
-Console.WriteLine($"The sum is: "+ z  );
+Console.WriteLine($"The sum is equal to "+ z+"."  );

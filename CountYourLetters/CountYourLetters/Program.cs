@@ -42,4 +42,3 @@ foreach(KeyValuePair<String, int> k in Letters)
 
 // }
 //}
-int x = Hypotenuse(10.0, 20.0);

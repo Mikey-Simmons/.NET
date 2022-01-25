@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\OOPTesting\OOPTesting\obj\Debug\net6.0\OOPTesting.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\OOPTesting\OOPTesting\obj\Debug\net6.0\OOPTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\OOPTesting\OOPTesting\obj\Debug\net6.0\OOPTesting.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\OOPTesting\OOPTesting\obj\Debug\net6.0\OOPTesting.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\OOPTesting\OOPTesting\obj\Debug\net6.0\OOPTesting.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\OOPTesting\OOPTesting\bin\Debug\net6.0\OOPTesting.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\OOPTesting\OOPTesting\bin\Debug\net6.0\OOPTesting.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\OOPTesting\OOPTesting\bin\Debug\net6.0\OOPTesting.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\OOPTesting\OOPTesting\bin\Debug\net6.0\OOPTesting.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\OOPTesting\OOPTesting\bin\Debug\net6.0\ref\OOPTesting.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\OOPTesting\OOPTesting\bin\Debug\net6.0\OOPTesting.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\OOPTesting\OOPTesting\obj\Debug\net6.0\OOPTesting.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\OOPTesting\OOPTesting\obj\Debug\net6.0\ref\OOPTesting.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\OOPTesting\OOPTesting\obj\Debug\net6.0\OOPTesting.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\OOPTesting\OOPTesting\obj\Debug\net6.0\OOPTesting.genruntimeconfig.cache

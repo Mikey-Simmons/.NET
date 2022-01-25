@@ -1,0 +1,5 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.csproj.CoreCompileInputs.cache

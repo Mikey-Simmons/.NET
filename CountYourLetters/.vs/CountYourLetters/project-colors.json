@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10523c87-c596-4976-887a-82840d079c21": {
+      "ProjectGuid": "10523c87-c596-4976-887a-82840d079c21",
+      "DisplayName": "CountYourLetters",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

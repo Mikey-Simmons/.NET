@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\CountYourLetters\CountYourLetters\bin\Debug\net6.0\CountYourLetters.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\CountYourLetters\CountYourLetters\bin\Debug\net6.0\CountYourLetters.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\CountYourLetters\CountYourLetters\bin\Debug\net6.0\CountYourLetters.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\CountYourLetters\CountYourLetters\bin\Debug\net6.0\CountYourLetters.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\CountYourLetters\CountYourLetters\bin\Debug\net6.0\ref\CountYourLetters.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\CountYourLetters\CountYourLetters\bin\Debug\net6.0\CountYourLetters.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\CountYourLetters\CountYourLetters\obj\Debug\net6.0\ref\CountYourLetters.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\PropertiesPractice\PropertiesPractice\obj\Debug\net6.0\PropertiesPractice.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\PropertiesPractice\PropertiesPractice\obj\Debug\net6.0\PropertiesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\PropertiesPractice\PropertiesPractice\obj\Debug\net6.0\PropertiesPractice.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\PropertiesPractice\PropertiesPractice\obj\Debug\net6.0\PropertiesPractice.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\PropertiesPractice\PropertiesPractice\obj\Debug\net6.0\PropertiesPractice.csproj.CoreCompileInputs.cache

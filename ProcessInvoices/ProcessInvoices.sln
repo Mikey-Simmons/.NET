@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessInvoices", "ProcessInvoices\ProcessInvoices.csproj", "{5E614F0E-A843-4D6A-AAE4-1BE45DEEF530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E614F0E-A843-4D6A-AAE4-1BE45DEEF530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E614F0E-A843-4D6A-AAE4-1BE45DEEF530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E614F0E-A843-4D6A-AAE4-1BE45DEEF530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E614F0E-A843-4D6A-AAE4-1BE45DEEF530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22698332-2535-4A84-8A91-0C467E41237E}
+	EndGlobalSection
+EndGlobal

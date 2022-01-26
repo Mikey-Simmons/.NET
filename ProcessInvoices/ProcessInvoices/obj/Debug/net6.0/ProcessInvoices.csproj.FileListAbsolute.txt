@@ -1,0 +1,16 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\bin\Debug\net6.0\invoices.dat
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\bin\Debug\net6.0\ProcessInvoices.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\bin\Debug\net6.0\ProcessInvoices.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\bin\Debug\net6.0\ProcessInvoices.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\bin\Debug\net6.0\ProcessInvoices.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\bin\Debug\net6.0\ref\ProcessInvoices.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\bin\Debug\net6.0\ProcessInvoices.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\obj\Debug\net6.0\ProcessInvoices.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\obj\Debug\net6.0\ProcessInvoices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\obj\Debug\net6.0\ProcessInvoices.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\obj\Debug\net6.0\ProcessInvoices.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\obj\Debug\net6.0\ProcessInvoices.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\obj\Debug\net6.0\ProcessInvoices.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\obj\Debug\net6.0\ref\ProcessInvoices.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\obj\Debug\net6.0\ProcessInvoices.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\ProcessInvoices\ProcessInvoices\obj\Debug\net6.0\ProcessInvoices.genruntimeconfig.cache

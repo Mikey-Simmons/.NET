@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceProject\InheritanceProject\bin\Debug\net6.0\InheritanceProject.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceProject\InheritanceProject\bin\Debug\net6.0\InheritanceProject.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceProject\InheritanceProject\bin\Debug\net6.0\InheritanceProject.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceProject\InheritanceProject\bin\Debug\net6.0\InheritanceProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceProject\InheritanceProject\bin\Debug\net6.0\ref\InheritanceProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceProject\InheritanceProject\bin\Debug\net6.0\InheritanceProject.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceProject\InheritanceProject\obj\Debug\net6.0\ref\InheritanceProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\SaleTracker\SaleTracker\bin\Debug\net6.0\SaleTracker.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\SaleTracker\SaleTracker\bin\Debug\net6.0\SaleTracker.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\SaleTracker\SaleTracker\bin\Debug\net6.0\SaleTracker.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\SaleTracker\SaleTracker\bin\Debug\net6.0\SaleTracker.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\SaleTracker\SaleTracker\bin\Debug\net6.0\ref\SaleTracker.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\SaleTracker\SaleTracker\bin\Debug\net6.0\SaleTracker.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\SaleTracker\SaleTracker\obj\Debug\net6.0\SaleTracker.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\SaleTracker\SaleTracker\obj\Debug\net6.0\SaleTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\SaleTracker\SaleTracker\obj\Debug\net6.0\SaleTracker.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\SaleTracker\SaleTracker\obj\Debug\net6.0\SaleTracker.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\SaleTracker\SaleTracker\obj\Debug\net6.0\SaleTracker.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\SaleTracker\SaleTracker\obj\Debug\net6.0\SaleTracker.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\SaleTracker\SaleTracker\obj\Debug\net6.0\ref\SaleTracker.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\SaleTracker\SaleTracker\obj\Debug\net6.0\SaleTracker.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\SaleTracker\SaleTracker\obj\Debug\net6.0\SaleTracker.genruntimeconfig.cache

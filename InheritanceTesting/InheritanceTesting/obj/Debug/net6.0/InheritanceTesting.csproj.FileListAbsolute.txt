@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceTesting\InheritanceTesting\obj\Debug\net6.0\InheritanceTesting.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceTesting\InheritanceTesting\obj\Debug\net6.0\InheritanceTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceTesting\InheritanceTesting\obj\Debug\net6.0\InheritanceTesting.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceTesting\InheritanceTesting\obj\Debug\net6.0\InheritanceTesting.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceTesting\InheritanceTesting\obj\Debug\net6.0\InheritanceTesting.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceTesting\InheritanceTesting\bin\Debug\net6.0\InheritanceTesting.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceTesting\InheritanceTesting\bin\Debug\net6.0\InheritanceTesting.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceTesting\InheritanceTesting\bin\Debug\net6.0\InheritanceTesting.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceTesting\InheritanceTesting\bin\Debug\net6.0\InheritanceTesting.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceTesting\InheritanceTesting\bin\Debug\net6.0\ref\InheritanceTesting.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceTesting\InheritanceTesting\bin\Debug\net6.0\InheritanceTesting.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceTesting\InheritanceTesting\obj\Debug\net6.0\InheritanceTesting.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceTesting\InheritanceTesting\obj\Debug\net6.0\ref\InheritanceTesting.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceTesting\InheritanceTesting\obj\Debug\net6.0\InheritanceTesting.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\InheritanceTesting\InheritanceTesting\obj\Debug\net6.0\InheritanceTesting.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\AssesorsPractice\AssesorsPractice\obj\Debug\net6.0\AssesorsPractice.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\AssesorsPractice\AssesorsPractice\obj\Debug\net6.0\AssesorsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\AssesorsPractice\AssesorsPractice\obj\Debug\net6.0\AssesorsPractice.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\AssesorsPractice\AssesorsPractice\obj\Debug\net6.0\AssesorsPractice.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\AssesorsPractice\AssesorsPractice\obj\Debug\net6.0\AssesorsPractice.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\AssesorsPractice\AssesorsPractice\bin\Debug\net6.0\AssesorsPractice.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\AssesorsPractice\AssesorsPractice\bin\Debug\net6.0\AssesorsPractice.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\AssesorsPractice\AssesorsPractice\bin\Debug\net6.0\AssesorsPractice.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\AssesorsPractice\AssesorsPractice\bin\Debug\net6.0\AssesorsPractice.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssesorsPractice\AssesorsPractice\bin\Debug\net6.0\ref\AssesorsPractice.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssesorsPractice\AssesorsPractice\bin\Debug\net6.0\AssesorsPractice.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AssesorsPractice\AssesorsPractice\obj\Debug\net6.0\AssesorsPractice.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssesorsPractice\AssesorsPractice\obj\Debug\net6.0\ref\AssesorsPractice.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssesorsPractice\AssesorsPractice\obj\Debug\net6.0\AssesorsPractice.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AssesorsPractice\AssesorsPractice\obj\Debug\net6.0\AssesorsPractice.genruntimeconfig.cache

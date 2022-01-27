@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b626d14-e08b-47a3-96c5-dc8fd79cda8e": {
+      "ProjectGuid": "9b626d14-e08b-47a3-96c5-dc8fd79cda8e",
+      "DisplayName": "Cards",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

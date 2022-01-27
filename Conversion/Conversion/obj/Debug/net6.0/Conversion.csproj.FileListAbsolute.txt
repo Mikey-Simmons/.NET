@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\Conversion\Conversion\bin\Debug\net6.0\Conversion.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\Conversion\Conversion\bin\Debug\net6.0\Conversion.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\Conversion\Conversion\bin\Debug\net6.0\Conversion.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\Conversion\Conversion\bin\Debug\net6.0\Conversion.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\Conversion\Conversion\bin\Debug\net6.0\ref\Conversion.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\Conversion\Conversion\bin\Debug\net6.0\Conversion.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\Conversion\Conversion\obj\Debug\net6.0\Conversion.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\Conversion\Conversion\obj\Debug\net6.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\Conversion\Conversion\obj\Debug\net6.0\Conversion.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\Conversion\Conversion\obj\Debug\net6.0\Conversion.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\Conversion\Conversion\obj\Debug\net6.0\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\Conversion\Conversion\obj\Debug\net6.0\Conversion.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\Conversion\Conversion\obj\Debug\net6.0\ref\Conversion.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\Conversion\Conversion\obj\Debug\net6.0\Conversion.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\Conversion\Conversion\obj\Debug\net6.0\Conversion.genruntimeconfig.cache

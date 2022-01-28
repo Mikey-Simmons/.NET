@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\ColorApp\ColorApp\obj\Debug\net6.0\ColorApp.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\ColorApp\ColorApp\obj\Debug\net6.0\ColorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\ColorApp\ColorApp\obj\Debug\net6.0\ColorApp.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\ColorApp\ColorApp\obj\Debug\net6.0\ColorApp.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\ColorApp\ColorApp\obj\Debug\net6.0\ColorApp.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\ColorApp\ColorApp\bin\Debug\net6.0\ColorApp.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\ColorApp\ColorApp\bin\Debug\net6.0\ColorApp.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\ColorApp\ColorApp\bin\Debug\net6.0\ColorApp.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\ColorApp\ColorApp\bin\Debug\net6.0\ColorApp.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\ColorApp\ColorApp\bin\Debug\net6.0\ref\ColorApp.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\ColorApp\ColorApp\bin\Debug\net6.0\ColorApp.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\ColorApp\ColorApp\obj\Debug\net6.0\ColorApp.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\ColorApp\ColorApp\obj\Debug\net6.0\ref\ColorApp.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\ColorApp\ColorApp\obj\Debug\net6.0\ColorApp.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\ColorApp\ColorApp\obj\Debug\net6.0\ColorApp.genruntimeconfig.cache

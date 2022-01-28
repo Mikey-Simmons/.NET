@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "057bf837-acf9-45d7-b383-209d502a06a5": {
+      "ProjectGuid": "057bf837-acf9-45d7-b383-209d502a06a5",
+      "DisplayName": "Animals",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

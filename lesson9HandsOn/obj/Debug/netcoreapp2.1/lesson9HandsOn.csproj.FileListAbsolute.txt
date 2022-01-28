@@ -1,0 +1,13 @@
+/Users/olivialemmelin/Desktop/ProgrammingC#/lesson9HandsOn/obj/Debug/netcoreapp2.1/lesson9HandsOn.csprojAssemblyReference.cache
+/Users/olivialemmelin/Desktop/ProgrammingC#/lesson9HandsOn/obj/Debug/netcoreapp2.1/lesson9HandsOn.csproj.CoreCompileInputs.cache
+/Users/olivialemmelin/Desktop/ProgrammingC#/lesson9HandsOn/obj/Debug/netcoreapp2.1/lesson9HandsOn.AssemblyInfoInputs.cache
+/Users/olivialemmelin/Desktop/ProgrammingC#/lesson9HandsOn/obj/Debug/netcoreapp2.1/lesson9HandsOn.AssemblyInfo.cs
+/Users/olivialemmelin/Desktop/ProgrammingC#/lesson9HandsOn/bin/Debug/netcoreapp2.1/lesson9HandsOn.deps.json
+/Users/olivialemmelin/Desktop/ProgrammingC#/lesson9HandsOn/bin/Debug/netcoreapp2.1/lesson9HandsOn.runtimeconfig.json
+/Users/olivialemmelin/Desktop/ProgrammingC#/lesson9HandsOn/bin/Debug/netcoreapp2.1/lesson9HandsOn.runtimeconfig.dev.json
+/Users/olivialemmelin/Desktop/ProgrammingC#/lesson9HandsOn/bin/Debug/netcoreapp2.1/lesson9HandsOn.dll
+/Users/olivialemmelin/Desktop/ProgrammingC#/lesson9HandsOn/bin/Debug/netcoreapp2.1/lesson9HandsOn.pdb
+/Users/olivialemmelin/Desktop/ProgrammingC#/lesson9HandsOn/obj/Debug/netcoreapp2.1/lesson9HandsOn.dll
+/Users/olivialemmelin/Desktop/ProgrammingC#/lesson9HandsOn/obj/Debug/netcoreapp2.1/lesson9HandsOn.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\lesson9HandsOn\obj\Debug\netcoreapp2.1\lesson9HandsOn.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\lesson9HandsOn\obj\Debug\netcoreapp2.1\lesson9HandsOn.pdb

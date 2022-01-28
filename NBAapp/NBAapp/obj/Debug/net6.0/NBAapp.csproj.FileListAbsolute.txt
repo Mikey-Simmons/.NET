@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\NBAapp\NBAapp\bin\Debug\net6.0\NBAapp.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\NBAapp\NBAapp\bin\Debug\net6.0\NBAapp.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\NBAapp\NBAapp\bin\Debug\net6.0\NBAapp.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\NBAapp\NBAapp\bin\Debug\net6.0\NBAapp.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\NBAapp\NBAapp\bin\Debug\net6.0\ref\NBAapp.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\NBAapp\NBAapp\bin\Debug\net6.0\NBAapp.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\NBAapp\NBAapp\obj\Debug\net6.0\NBAapp.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\NBAapp\NBAapp\obj\Debug\net6.0\NBAapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\NBAapp\NBAapp\obj\Debug\net6.0\NBAapp.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\NBAapp\NBAapp\obj\Debug\net6.0\NBAapp.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\NBAapp\NBAapp\obj\Debug\net6.0\NBAapp.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\NBAapp\NBAapp\obj\Debug\net6.0\NBAapp.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\NBAapp\NBAapp\obj\Debug\net6.0\ref\NBAapp.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\NBAapp\NBAapp\obj\Debug\net6.0\NBAapp.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\NBAapp\NBAapp\obj\Debug\net6.0\NBAapp.genruntimeconfig.cache

@@ -6,12 +6,12 @@ namespace nba
     {
         public static void Main(string[] args)
         {
-            var my_team = new Team("SuperSonics", "Seattle");
-            var my_team2 = new Team("Hawks", "Atlanta");
+            var my_team = new Team("SuperSonics", "Seattle",1);
+            var my_team2 = new Team("Hawks", "Atlanta",1);
             var my_player = new Player("Trae Young", "Atlanta Hawks");
             var my_player2 = new Player("Detlef Schrempf", "Seattle SuperSonics");
-            var my_player3 = new Player("LeBron James", "Los Angeles Lakers");
-            var my_team3 = new Team("Lakers", "Los Angeles");
+            var my_player3 = new Player("LeBron James", "Los Angeles Lakers",32000,1003);
+            var my_team3 = new Team("Lakers", "Los Angeles",17);
             List<Player> players = new List<Player>();
             players.Add(my_player);
             players.Add(my_player2);
@@ -19,6 +19,7 @@ namespace nba
             foreach (var player in players)
             {
                 Console.WriteLine(player.getInfo());
+                Console.WriteLine(player.PointsPerGame());
             }
             List<Team> teams = new List<Team>();
             teams.Add(my_team);
@@ -35,14 +36,16 @@ namespace nba
         {
             public string Name { get; set; }
             public string Location { get; set; }
-            public Team(string Name, string Location)
+            public int RingsWon { get; set; }
+            public Team(string Name, string Location, int Rings)
             {
                 this.Name = Name;
                 this.Location = Location;
+                this.RingsWon = Rings;
             }
             public string getInfo()
             {
-                return $"{Location} {Name}";
+                return $"The {Location} {Name} have won {RingsWon} Championship(s)!";
             }
 
         }
@@ -50,14 +53,35 @@ namespace nba
         {
             public string Name { get; set; }
             public string Team { get; set; }
+            public int TotalPoints { get; set; }
+            public int TotalGamesPlayed     { get; set; }
             public string getInfo()
             {
                 return $"{Name} plays for the {Team}!";
+            }
+            public string PointsPerGame()
+            {
+                int average;
+                average = TotalPoints / TotalGamesPlayed ;
+                string my_average =average.ToString();
+                return $"{Name} averaged {average} point(s) per game.";                    
+
+
             }
             public Player(string Name, string Team)
             {
                 this.Name = Name;
                 this.Team = Team;
+                this.TotalGamesPlayed = 1;
+                this.TotalPoints = 0;
+            }
+            public Player(string Name,string Team,int TotalPoints, int TotalGamesPlayed)
+            {
+                this.Name = Name;
+                this.Team=Team;
+                this.TotalPoints = TotalPoints;
+                this.TotalGamesPlayed=TotalGamesPlayed;
+
             }
         }
 

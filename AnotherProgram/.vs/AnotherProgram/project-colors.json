@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ee41607-4fa1-4dd0-83d9-a75d995aa6ab": {
+      "ProjectGuid": "3ee41607-4fa1-4dd0-83d9-a75d995aa6ab",
+      "DisplayName": "AnotherProgram",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\AnotherProgram\AnotherProgram\bin\Debug\net6.0\AnotherProgram.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\AnotherProgram\AnotherProgram\bin\Debug\net6.0\AnotherProgram.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\AnotherProgram\AnotherProgram\bin\Debug\net6.0\AnotherProgram.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\AnotherProgram\AnotherProgram\bin\Debug\net6.0\AnotherProgram.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AnotherProgram\AnotherProgram\bin\Debug\net6.0\ref\AnotherProgram.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AnotherProgram\AnotherProgram\bin\Debug\net6.0\AnotherProgram.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AnotherProgram\AnotherProgram\obj\Debug\net6.0\AnotherProgram.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\AnotherProgram\AnotherProgram\obj\Debug\net6.0\AnotherProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\AnotherProgram\AnotherProgram\obj\Debug\net6.0\AnotherProgram.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\AnotherProgram\AnotherProgram\obj\Debug\net6.0\AnotherProgram.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\AnotherProgram\AnotherProgram\obj\Debug\net6.0\AnotherProgram.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\AnotherProgram\AnotherProgram\obj\Debug\net6.0\AnotherProgram.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AnotherProgram\AnotherProgram\obj\Debug\net6.0\ref\AnotherProgram.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AnotherProgram\AnotherProgram\obj\Debug\net6.0\AnotherProgram.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AnotherProgram\AnotherProgram\obj\Debug\net6.0\AnotherProgram.genruntimeconfig.cache

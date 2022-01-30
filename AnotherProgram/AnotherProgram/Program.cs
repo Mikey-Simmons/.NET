@@ -6,7 +6,8 @@ public class Program
    
     public static void Main()
     {
-        string s1 = printText();
+          myNamespace.AnotherProgram.printText() ;
+        otherNamespace.AnotherProgramAgain.printSomeText() ;
     }
 
 }
@@ -14,19 +15,21 @@ namespace myNamespace
 {
     public class AnotherProgram
     {
-        public string printText() {
-            return "Hello Earth";
+        public static void printText() {
+            Console.WriteLine("Hello Earth!");
         }
 
     }
 }
-namespace otherNamespace
+ namespace otherNamespace
 {
     public class AnotherProgramAgain
     {
-        public string printSomeText()
+        public static void printSomeText()
         {
-            return "Hello there!";
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("I am text from the otherNamespace.");
+
         }
     }
 }

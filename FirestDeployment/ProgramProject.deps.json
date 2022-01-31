@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProgramProject/1.0.0": {
+        "dependencies": {
+          "FactoryProject": "1.0.0",
+          "InterfacesProject": "1.0.0"
+        },
+        "runtime": {
+          "ProgramProject.dll": {}
+        }
+      },
+      "BlackProject/1.0.0": {
+        "dependencies": {
+          "InterfacesProject": "1.0.0"
+        },
+        "runtime": {
+          "BlackProject.dll": {}
+        }
+      },
+      "FactoryProject/1.0.0": {
+        "dependencies": {
+          "BlackProject": "1.0.0",
+          "InterfacesProject": "1.0.0"
+        },
+        "runtime": {
+          "FactoryProject.dll": {}
+        }
+      },
+      "InterfacesProject/1.0.0": {
+        "runtime": {
+          "InterfacesProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlackProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FactoryProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterfacesProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

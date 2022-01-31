@@ -1,6 +1,7 @@
 ﻿using Colors;
 using InterfacesProject;
-using OtherColors;
+using otherColors;
+
 
 namespace FactoryProject
 {
@@ -8,7 +9,7 @@ namespace FactoryProject
     {
         public Factory()
         {
-            IFactory.Prompt = "(B)lack (O)range (G)reen";
+            IFactory.Prompt = "(B)lack (O)range (G)reen (P)urple";
         }
         static int i = 1;
         public IBlack Create(char c)
@@ -18,6 +19,7 @@ namespace FactoryProject
                 case ('B'): return new Black(i++);
                 case ('O'): return new Orange(i++);
                 case ('G'): return new Green(i++);
+                case ('P'): return new Purple(i++);
                 default: throw new Exception($"did not recognize pattern character {c}");
             }
         }

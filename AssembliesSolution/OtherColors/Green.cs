@@ -2,7 +2,7 @@
 using System;
 
 
-namespace OtherColors
+namespace otherColors
 {
     
         public class Green : Orange

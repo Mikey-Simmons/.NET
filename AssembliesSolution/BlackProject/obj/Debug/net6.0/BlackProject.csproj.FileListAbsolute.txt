@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\BlackProject\obj\Debug\net6.0\BlackProject.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\BlackProject\obj\Debug\net6.0\BlackProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\BlackProject\obj\Debug\net6.0\BlackProject.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\BlackProject\obj\Debug\net6.0\BlackProject.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\BlackProject\obj\Debug\net6.0\BlackProject.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\BlackProject\bin\Debug\net6.0\BlackProject.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\BlackProject\bin\Debug\net6.0\BlackProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\BlackProject\bin\Debug\net6.0\ref\BlackProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\BlackProject\bin\Debug\net6.0\BlackProject.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\BlackProject\bin\Debug\net6.0\InterfacesProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\BlackProject\bin\Debug\net6.0\InterfacesProject.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\BlackProject\obj\Debug\net6.0\BlackProject.csproj.CopyComplete
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\BlackProject\obj\Debug\net6.0\BlackProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\BlackProject\obj\Debug\net6.0\ref\BlackProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\BlackProject\obj\Debug\net6.0\BlackProject.pdb

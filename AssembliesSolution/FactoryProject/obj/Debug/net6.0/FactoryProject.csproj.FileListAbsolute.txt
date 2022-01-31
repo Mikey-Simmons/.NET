@@ -1,0 +1,17 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\obj\Debug\net6.0\FactoryProject.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\obj\Debug\net6.0\FactoryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\obj\Debug\net6.0\FactoryProject.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\obj\Debug\net6.0\FactoryProject.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\obj\Debug\net6.0\FactoryProject.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\bin\Debug\net6.0\FactoryProject.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\bin\Debug\net6.0\FactoryProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\bin\Debug\net6.0\ref\FactoryProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\bin\Debug\net6.0\FactoryProject.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\bin\Debug\net6.0\BlackProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\bin\Debug\net6.0\InterfacesProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\bin\Debug\net6.0\BlackProject.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\bin\Debug\net6.0\InterfacesProject.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\obj\Debug\net6.0\FactoryProject.csproj.CopyComplete
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\obj\Debug\net6.0\FactoryProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\obj\Debug\net6.0\ref\FactoryProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\obj\Debug\net6.0\FactoryProject.pdb

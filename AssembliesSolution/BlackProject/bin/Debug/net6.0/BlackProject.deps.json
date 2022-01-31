@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BlackProject/1.0.0": {
+        "dependencies": {
+          "InterfacesProject": "1.0.0"
+        },
+        "runtime": {
+          "BlackProject.dll": {}
+        }
+      },
+      "InterfacesProject/1.0.0": {
+        "runtime": {
+          "InterfacesProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlackProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterfacesProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

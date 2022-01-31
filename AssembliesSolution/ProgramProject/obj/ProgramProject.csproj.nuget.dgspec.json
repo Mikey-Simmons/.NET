@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\ProgramProject\\ProgramProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\BlackProject\\BlackProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\BlackProject\\BlackProject.csproj",
+        "projectName": "BlackProject",
+        "projectPath": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\BlackProject\\BlackProject.csproj",
+        "packagesPath": "C:\\Users\\mikey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\BlackProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mikey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\InterfacesProject\\InterfacesProject.csproj": {
+                "projectPath": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\InterfacesProject\\InterfacesProject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\FactoryProject\\FactoryProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\FactoryProject\\FactoryProject.csproj",
+        "projectName": "FactoryProject",
+        "projectPath": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\FactoryProject\\FactoryProject.csproj",
+        "packagesPath": "C:\\Users\\mikey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\FactoryProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mikey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\BlackProject\\BlackProject.csproj": {
+                "projectPath": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\BlackProject\\BlackProject.csproj"
+              },
+              "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\InterfacesProject\\InterfacesProject.csproj": {
+                "projectPath": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\InterfacesProject\\InterfacesProject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\InterfacesProject\\InterfacesProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\InterfacesProject\\InterfacesProject.csproj",
+        "projectName": "InterfacesProject",
+        "projectPath": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\InterfacesProject\\InterfacesProject.csproj",
+        "packagesPath": "C:\\Users\\mikey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\InterfacesProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mikey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\ProgramProject\\ProgramProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\ProgramProject\\ProgramProject.csproj",
+        "projectName": "ProgramProject",
+        "projectPath": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\ProgramProject\\ProgramProject.csproj",
+        "packagesPath": "C:\\Users\\mikey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\ProgramProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mikey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\FactoryProject\\FactoryProject.csproj": {
+                "projectPath": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\FactoryProject\\FactoryProject.csproj"
+              },
+              "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\InterfacesProject\\InterfacesProject.csproj": {
+                "projectPath": "C:\\Users\\mikey\\OneDrive\\Desktop\\.NET\\AssembliesSolution\\InterfacesProject\\InterfacesProject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

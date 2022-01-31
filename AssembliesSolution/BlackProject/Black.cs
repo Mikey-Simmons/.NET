@@ -13,7 +13,7 @@ namespace Colors
         {
             Console.WriteLine($"{Id,3}>Destroying(finalizing) a ~Black()");
         }
-        public int Id { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public int Id { get; set; }
 
         public void Process()
         {

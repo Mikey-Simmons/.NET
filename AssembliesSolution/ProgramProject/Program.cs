@@ -1,11 +1,29 @@
-﻿using System;
+﻿using FactoryProject;
+using InterfacesProject;
+using System;
 namespace ProgramProject
 {
      class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            Work();
+            GC.Collect();
+            GC.WaitForPendingFinalizers();
+            Console.WriteLine("Exiting Main...");
+        }
+        static void Work()
+        {
+            Factory f = new Factory();
+            Console.WriteLine($"Enter a pattern>{IFactory.Prompt}:");
+            string pattern = Console.ReadLine();
 
+            List<IBlack> data = f.Create(pattern);
+            foreach(IBlack item in data)
+            {
+                item.Process();
+                item.vProcess();
+            }
         }
     }
-}
+} 

@@ -13,3 +13,10 @@ C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\obj\Debug
 C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\obj\Debug\net6.0\ref\ProgramProject.dll
 C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\obj\Debug\net6.0\ProgramProject.pdb
 C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\obj\Debug\net6.0\ProgramProject.genruntimeconfig.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\bin\Debug\net6.0\BlackProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\bin\Debug\net6.0\FactoryProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\bin\Debug\net6.0\InterfacesProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\bin\Debug\net6.0\FactoryProject.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\bin\Debug\net6.0\InterfacesProject.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\bin\Debug\net6.0\BlackProject.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\obj\Debug\net6.0\ProgramProject.csproj.CopyComplete

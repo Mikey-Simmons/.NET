@@ -22,6 +22,7 @@ namespace FactoryProject
                 case ('P'): return new Purple(i++);
                 default: throw new Exception($"did not recognize pattern character {c}");
             }
+
         }
 
         public List<IBlack> Create(string pattern)

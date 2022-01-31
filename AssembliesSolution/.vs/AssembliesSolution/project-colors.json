@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0bd1775e-33ca-418c-a7d4-f7619612a78c": {
+      "ProjectGuid": "0bd1775e-33ca-418c-a7d4-f7619612a78c",
+      "DisplayName": "ProgramProject",
+      "ColorIndex": 0
+    },
+    "f649bf33-e737-416b-9e09-914e0b41609f": {
+      "ProjectGuid": "f649bf33-e737-416b-9e09-914e0b41609f",
+      "DisplayName": "InterfacesProject",
+      "ColorIndex": 1
+    },
+    "334b4798-7fe2-4577-b3aa-b2295562b77e": {
+      "ProjectGuid": "334b4798-7fe2-4577-b3aa-b2295562b77e",
+      "DisplayName": "BlackProject",
+      "ColorIndex": 2
+    },
+    "66910ae4-480c-4f1b-9134-b0399eac990d": {
+      "ProjectGuid": "66910ae4-480c-4f1b-9134-b0399eac990d",
+      "DisplayName": "FactoryProject",
+      "ColorIndex": 3
+    },
+    "9755e5f4-e238-4b8a-97b7-a43393998f6c": {
+      "ProjectGuid": "9755e5f4-e238-4b8a-97b7-a43393998f6c",
+      "DisplayName": "OtherColors",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

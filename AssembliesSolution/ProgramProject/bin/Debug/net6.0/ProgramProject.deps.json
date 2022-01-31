@@ -26,7 +26,8 @@
       "FactoryProject/1.0.0": {
         "dependencies": {
           "BlackProject": "1.0.0",
-          "InterfacesProject": "1.0.0"
+          "InterfacesProject": "1.0.0",
+          "OtherColors": "1.0.0"
         },
         "runtime": {
           "FactoryProject.dll": {}
@@ -35,6 +36,14 @@
       "InterfacesProject/1.0.0": {
         "runtime": {
           "InterfacesProject.dll": {}
+        }
+      },
+      "OtherColors/1.0.0": {
+        "dependencies": {
+          "BlackProject": "1.0.0"
+        },
+        "runtime": {
+          "OtherColors.dll": {}
         }
       }
     }
@@ -56,6 +65,11 @@
       "sha512": ""
     },
     "InterfacesProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OtherColors/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

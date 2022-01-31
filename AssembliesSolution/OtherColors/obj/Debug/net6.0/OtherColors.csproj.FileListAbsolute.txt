@@ -1,0 +1,16 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\bin\Debug\net6.0\OtherColors.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\bin\Debug\net6.0\OtherColors.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\bin\Debug\net6.0\ref\OtherColors.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\bin\Debug\net6.0\OtherColors.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\bin\Debug\net6.0\BlackProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\bin\Debug\net6.0\InterfacesProject.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\bin\Debug\net6.0\BlackProject.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\bin\Debug\net6.0\InterfacesProject.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\obj\Debug\net6.0\OtherColors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\obj\Debug\net6.0\OtherColors.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\obj\Debug\net6.0\OtherColors.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\obj\Debug\net6.0\OtherColors.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\obj\Debug\net6.0\OtherColors.csproj.CopyComplete
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\obj\Debug\net6.0\OtherColors.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\obj\Debug\net6.0\ref\OtherColors.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\OtherColors\obj\Debug\net6.0\OtherColors.pdb

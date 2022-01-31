@@ -1,13 +1,14 @@
 ﻿using Colors;
 using InterfacesProject;
 
+
 namespace FactoryProject
 {
     public class Factory : IFactory
     {
         public Factory()
         {
-            IFactory.Prompt = "(B)lack";
+            IFactory.Prompt = "(B)lack (O)range";
         }
         static int i = 1;
         public IBlack Create(char c)
@@ -15,6 +16,7 @@ namespace FactoryProject
             switch (char.ToUpper(c))
             {
                 case ('B'): return new Black(i++);
+                case ('O'): return new Orange(i++);
                     default: throw new Exception($"did not recognize pattern character {c}");
             }
         }

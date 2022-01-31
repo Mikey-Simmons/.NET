@@ -20,3 +20,5 @@ C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\bin\Debug
 C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\bin\Debug\net6.0\InterfacesProject.pdb
 C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\bin\Debug\net6.0\BlackProject.pdb
 C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\obj\Debug\net6.0\ProgramProject.csproj.CopyComplete
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\bin\Debug\net6.0\OtherColors.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\ProgramProject\bin\Debug\net6.0\OtherColors.pdb

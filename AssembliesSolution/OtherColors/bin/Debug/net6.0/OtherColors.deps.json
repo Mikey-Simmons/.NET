@@ -6,14 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "FactoryProject/1.0.0": {
+      "OtherColors/1.0.0": {
         "dependencies": {
-          "BlackProject": "1.0.0",
-          "InterfacesProject": "1.0.0",
-          "OtherColors": "1.0.0"
+          "BlackProject": "1.0.0"
         },
         "runtime": {
-          "FactoryProject.dll": {}
+          "OtherColors.dll": {}
         }
       },
       "BlackProject/1.0.0": {
@@ -28,19 +26,11 @@
         "runtime": {
           "InterfacesProject.dll": {}
         }
-      },
-      "OtherColors/1.0.0": {
-        "dependencies": {
-          "BlackProject": "1.0.0"
-        },
-        "runtime": {
-          "OtherColors.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "FactoryProject/1.0.0": {
+    "OtherColors/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -51,11 +41,6 @@
       "sha512": ""
     },
     "InterfacesProject/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "OtherColors/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

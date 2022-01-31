@@ -15,3 +15,5 @@ C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\obj\Debug
 C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\obj\Debug\net6.0\FactoryProject.dll
 C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\obj\Debug\net6.0\ref\FactoryProject.dll
 C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\obj\Debug\net6.0\FactoryProject.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\bin\Debug\net6.0\OtherColors.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\AssembliesSolution\FactoryProject\bin\Debug\net6.0\OtherColors.pdb

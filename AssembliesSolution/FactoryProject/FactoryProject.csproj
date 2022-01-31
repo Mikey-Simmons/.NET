@@ -9,6 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\BlackProject\BlackProject.csproj" />
     <ProjectReference Include="..\InterfacesProject\InterfacesProject.csproj" />
+    <ProjectReference Include="..\OtherColors\OtherColors.csproj" />
   </ItemGroup>
 
 </Project>

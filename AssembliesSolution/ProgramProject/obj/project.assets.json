@@ -20,7 +20,8 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "BlackProject": "1.0.0",
-          "InterfacesProject": "1.0.0"
+          "InterfacesProject": "1.0.0",
+          "OtherColors": "1.0.0"
         },
         "compile": {
           "bin/placeholder/FactoryProject.dll": {}
@@ -37,6 +38,19 @@
         },
         "runtime": {
           "bin/placeholder/InterfacesProject.dll": {}
+        }
+      },
+      "OtherColors/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BlackProject": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OtherColors.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OtherColors.dll": {}
         }
       }
     }
@@ -56,6 +70,11 @@
       "type": "project",
       "path": "../InterfacesProject/InterfacesProject.csproj",
       "msbuildProject": "../InterfacesProject/InterfacesProject.csproj"
+    },
+    "OtherColors/1.0.0": {
+      "type": "project",
+      "path": "../OtherColors/OtherColors.csproj",
+      "msbuildProject": "../OtherColors/OtherColors.csproj"
     }
   },
   "projectFileDependencyGroups": {

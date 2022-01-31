@@ -10,7 +10,9 @@ namespace ProgramProject
             Work();
             GC.Collect();
             GC.WaitForPendingFinalizers();
-            Console.WriteLine("Exiting Main...");
+            Console.WriteLine("Press return to Exit Main...");
+            Console.ReadLine();
+            Console.WriteLine("Exitting Main");
         }
         static void Work()
         {

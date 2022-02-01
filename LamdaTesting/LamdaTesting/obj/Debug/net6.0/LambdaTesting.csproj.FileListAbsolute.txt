@@ -1,0 +1,15 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\LamdaTesting\LamdaTesting\bin\Debug\net6.0\LambdaTesting.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\LamdaTesting\LamdaTesting\bin\Debug\net6.0\LambdaTesting.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\LamdaTesting\LamdaTesting\bin\Debug\net6.0\LambdaTesting.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\LamdaTesting\LamdaTesting\bin\Debug\net6.0\LambdaTesting.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\LamdaTesting\LamdaTesting\bin\Debug\net6.0\ref\LambdaTesting.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\LamdaTesting\LamdaTesting\bin\Debug\net6.0\LambdaTesting.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\LamdaTesting\LamdaTesting\obj\Debug\net6.0\LambdaTesting.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\LamdaTesting\LamdaTesting\obj\Debug\net6.0\LambdaTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\LamdaTesting\LamdaTesting\obj\Debug\net6.0\LambdaTesting.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\LamdaTesting\LamdaTesting\obj\Debug\net6.0\LambdaTesting.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\LamdaTesting\LamdaTesting\obj\Debug\net6.0\LambdaTesting.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\LamdaTesting\LamdaTesting\obj\Debug\net6.0\LambdaTesting.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\LamdaTesting\LamdaTesting\obj\Debug\net6.0\ref\LambdaTesting.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\LamdaTesting\LamdaTesting\obj\Debug\net6.0\LambdaTesting.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\LamdaTesting\LamdaTesting\obj\Debug\net6.0\LambdaTesting.genruntimeconfig.cache

@@ -6,10 +6,14 @@ namespace LambdaTesting
     {
         static void Main(string[] args )
         {
+           Action<int, string, bool> c;
            Action a;
+            c = testc;
             a = test;
             a();
             
+            testb(2);
+            c(2, "yo", true);
             
         }
         static void test()
@@ -19,6 +23,18 @@ namespace LambdaTesting
         static Action Test2()
         {
             return test;
+        }
+        static void testb(int a)
+        {
+            Console.WriteLine(a);   
+        }
+        static Action<int> test2b()
+        {
+            return testb;
+        }
+        static void testc(int a, string s, bool b)
+        {
+            Console.WriteLine("In testc");
         }
     }
     

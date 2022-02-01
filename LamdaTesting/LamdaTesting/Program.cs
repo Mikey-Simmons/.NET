@@ -6,19 +6,38 @@ namespace LambdaTesting
     {
         static void Main(string[] args )
         {
+            Predicate<string> p;
+            p = isString3letters;
            Action<int, string, bool> c;
            Action a;
             c = testc;
             a = test;
             a();
-            
+            Func<int> f;
+            Func<string, int> f2;
             testb(2);
             c(2, "yo", true);
-            
+            f = function1;
+            Console.WriteLine(f());
+            f2 = function2a;
+            f2("yo");
+            Console.WriteLine(p("pee"));
+            Console.WriteLine(p("pushin p"));
         }
         static void test()
         {
             Console.WriteLine("This is  a test");
+        }
+        static bool isString3letters(string s)
+        {
+            if (s.Length == 3)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
         static Action Test2()
         {
@@ -36,7 +55,19 @@ namespace LambdaTesting
         {
             Console.WriteLine("In testc");
         }
+        static int function1() {
+            return 666; }
+        static int function2a(string s)
+        {
+            return 0;
+        }
+        static string function2b(int i)
+        {
+            return "zero";
+        }
     }
+    
+
     
 }
 

@@ -14,7 +14,7 @@ namespace Part1
         
 
 
-        // create a static constructor that:
+        // create a static constructor 
         static TaxCalculator()
         {
             StreamReader reader = null;
@@ -72,7 +72,7 @@ namespace Part1
                     {
                         decimal incomeForThisBracket = totalEarned - tr.Floor;
                         decimal thisBracket = incomeForThisBracket * tr.Rate;
-                        Console.WriteLine($"Found Record {tr} [income: {incomeForThisBracket} Tax: {thisBracket}] Total Tax So Far: {totalTax +thisBracket}");
+                        Console.WriteLine($"Found Record {tr} [income: {incomeForThisBracket} Tax: {thisBracket}] Total Tax: {totalTax +thisBracket}");
                         return totalTax + (totalEarned - tr.Floor)* tr.Rate;
 
                     }
@@ -81,7 +81,7 @@ namespace Part1
                     {
                         decimal incomeForThisBracket = tr.Ceiling-tr.Floor;
                         decimal thisBracket = incomeForThisBracket * tr.Rate;
-                        Console.WriteLine($"Found record {tr} this Bracket: [income: {incomeForThisBracket} Tax: {thisBracket}] Total tax: {totalTax+thisBracket }");
+                        Console.WriteLine($"Found record {tr} this Bracket: [income: {incomeForThisBracket} Tax: {thisBracket}] Total Tax So Far: {totalTax+thisBracket }");
                         totalTax = +thisBracket;
                     }
                 }
@@ -143,7 +143,7 @@ namespace Part1
             }
             else
             {
-                throw new Exception($"item Floor: 3rd is not a decimal [{items[2]} line=[{csv}]");
+                throw new Exception($"item Flooris not a decimal [{items[2]} line=[{csv}]");
             }
             //declaring ceiling var
             decimal b;
@@ -153,7 +153,7 @@ namespace Part1
             }
             else
             {
-                throw new Exception($"item ceiling: 4th is not a decimal [{items[3]} line=[{csv}]");
+                throw new Exception($"item ceiling is not a decimal [{items[3]} line=[{csv}]");
             }
             //rate var
             decimal c;
@@ -163,12 +163,12 @@ namespace Part1
             }
             else
             {
-                throw new Exception($"item ceiling: 5th is not a decimal [{items[4]} line=[{csv}]");
+                throw new Exception($"item rate is not a decimal [{items[4]} line=[{csv}]");
             }
         }
         public override string ToString()
         {
-            return  $"Tax Record for {StateCode} {State} Floor: {Floor,15:000000000.000} Ceiling:{Ceiling,15:000000000.000} Rate:{Rate:00.000000}";
+            return  $"Tax Record for {StateCode} {State} Floor: {Floor,15:000000000.00} Ceiling:{Ceiling,15:00000000.00} Rate:{Rate:00.00000}";
         }
     }  // this is the end of the TaxRecord
 
@@ -176,36 +176,30 @@ namespace Part1
     {
         public static void Main()
         {
-            // create an infinite loop to:
-            // prompt the user for a state and an income
-            // validate the data
-            // calculate the tax due and print out the total
-            // loop
-
-            // after accomplishing this, you may want to also prompt for verbose mode or not in this loop
-            // wrap everythign in a try/catch INSIDE the loop.  print out any exceptions that are unhandled
-            //  something like this:
+            
 
 
             do
             {
                 try
                 {
-                    Console.WriteLine("enter a state abbreviation");
+                    Console.WriteLine("Enter a State Abbreviation:");
                     string state = Console.ReadLine().ToUpper();
-                    Console.WriteLine("Enter an income");
+                    Console.WriteLine("Enter an Income Amount:");
                     string line;
                     decimal income;
                     // validating data
                     while(!decimal.TryParse(line = Console.ReadLine(),out income))
                     {
-                        Console.WriteLine("income was not a deceimal...");
-                        Console.WriteLine("please enter a decimal");
+                        Console.WriteLine($"The Income amount provided '{line}' was not a valid decimal value...");
+                        Console.WriteLine("Please enter the Income Amount in decimal form!");
                     }
                     decimal tax = TaxCalculator.ComputeTaxFor(state, income);
-                    Console.WriteLine(tax);
+                    Console.WriteLine($"The total tax is: ${tax} ");
+
                 }
                 catch (Exception ex)
+
                 {
                     Console.WriteLine(ex.Message);
                 }

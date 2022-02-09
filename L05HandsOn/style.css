@@ -1,0 +1,18 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+header{
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content:center ;
+    display: flex;
+    color: aliceblue;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-color: blueviolet;
+}

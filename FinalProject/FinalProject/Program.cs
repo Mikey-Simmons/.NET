@@ -71,8 +71,8 @@ namespace Part1
                     if(totalEarned >= tr.Floor && totalEarned <= tr.Ceiling)
                     {
                         decimal incomeForThisBracket = totalEarned - tr.Floor;
-                        decimal thisBracket = incomeForThisBracket * tr.Rate;
-                        Console.WriteLine($"Found Record {tr} [income: {incomeForThisBracket} Tax: {thisBracket}] Total Tax: {totalTax +thisBracket}");
+                        decimal thisBracketTax = incomeForThisBracket * tr.Rate;
+                        Console.WriteLine($"Found Record {tr} [income: {incomeForThisBracket} Tax: {thisBracketTax}] Total Tax: {totalTax +thisBracketTax}");
                         return totalTax + (totalEarned - tr.Floor)* tr.Rate;
 
                     }
@@ -80,9 +80,9 @@ namespace Part1
 
                     {
                         decimal incomeForThisBracket = tr.Ceiling-tr.Floor;
-                        decimal thisBracket = incomeForThisBracket * tr.Rate;
-                        Console.WriteLine($"Found record {tr} this Bracket: [income: {incomeForThisBracket} Tax: {thisBracket}] Total Tax So Far: {totalTax+thisBracket }");
-                        totalTax = +thisBracket;
+                        decimal thisBracketTax = incomeForThisBracket * tr.Rate;
+                        Console.WriteLine($"Found record {tr} this Bracket: [income: {incomeForThisBracket} Tax: {thisBracketTax}] Total Tax So Far: {totalTax+thisBracketTax }");
+                        totalTax = +thisBracketTax;
                     }
                 }
                 throw new Exception($"Income was higher than the tax ceiling: {totalEarned}");

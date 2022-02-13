@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Part2;
 
 namespace Part1
 {
@@ -94,7 +95,7 @@ namespace Part1
         }
         
 
-    }  // this is the end of the Tax Calculator
+    }  // end of the Tax Calculator
 
 
     class TaxRecord
@@ -143,7 +144,7 @@ namespace Part1
             }
             else
             {
-                throw new Exception($"item Flooris not a decimal [{items[2]} line=[{csv}]");
+                throw new Exception($"item Floor is not a decimal [{items[2]} line=[{csv}]");
             }
             //declaring ceiling var
             decimal b;
@@ -172,6 +173,9 @@ namespace Part1
         }
     }  // this is the end of the TaxRecord
 
+    //part 2
+
+
     class Program
     {
         public static void Main()
@@ -195,7 +199,18 @@ namespace Part1
                         Console.WriteLine("Please enter the Income Amount in decimal form!");
                     }
                     decimal tax = TaxCalculator.ComputeTaxFor(state, income);
-                    Console.WriteLine($"The total tax is: ${tax} ");
+                    Console.WriteLine($"The total tax is: ${tax:.00} ");
+                    Console.WriteLine("Would You like to see employee info? Enter y for yes or n for no" );
+                    string yesOrNo = Console.ReadLine();
+                    if(yesOrNo == "y")
+                    {
+                        EmployeesList.PrintEmployeeList();
+                    }
+                    else
+                    {
+
+                    }
+                    
 
                 }
                 catch (Exception ex)

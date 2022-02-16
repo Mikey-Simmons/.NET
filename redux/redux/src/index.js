@@ -1,17 +1,20 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+// 1.
+var filtered = car => {
+  return car.name === 'ford';
+};
+const arr = [
+  { name: 'chevy', count: 2 },
+  { name: 'ford', count: 5 },
+  { name: 'acura', count: 3 },
+  { name: 'honda', count: 16 }
+].filter(filtered);
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+console.log("Filter results:", arr);
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+// 2.
+const arr = ['Bill', 'Joe', 'Emily', 'Andrea'];
+const newStudents = ['Andrew', 'Tasha', 'Carol', 'George'];
+
+const fullArray = [...arr, ...newStudents];
+
+console.log(fullArray);

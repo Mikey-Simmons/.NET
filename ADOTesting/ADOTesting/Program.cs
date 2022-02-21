@@ -1,4 +1,6 @@
-﻿namespace ADOTestTest
+﻿using System;
+using System.Data;
+namespace ADOTestTest
 {
     class Program
     {
@@ -20,6 +22,13 @@
             // properties: ConnectionString
             //                              state 
             conn.Open();
+            IDbCommand Comm;
+            // bad example
+          // Comm = new MySql.Data.MySqlClient.MySqlCommand
+          //good example the selection as to ur provider is only made by the connection
+          Comm = conn.CreateCommand();
+
+           
 
         }
     }

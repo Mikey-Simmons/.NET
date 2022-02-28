@@ -1,0 +1,26 @@
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\bin\Debug\net6.0\appsettings.json
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\bin\Debug\net6.0\ASP Lifecycle.staticwebassets.runtime.json
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\bin\Debug\net6.0\ASP Lifecycle.exe
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\bin\Debug\net6.0\ASP Lifecycle.deps.json
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\bin\Debug\net6.0\ASP Lifecycle.runtimeconfig.json
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\bin\Debug\net6.0\ASP Lifecycle.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\bin\Debug\net6.0\ref\ASP Lifecycle.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\bin\Debug\net6.0\ASP Lifecycle.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\ASP Lifecycle.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\ASP Lifecycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\ASP Lifecycle.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\ASP Lifecycle.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\ASP Lifecycle.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\ASP Lifecycle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\ASP Lifecycle.RazorAssemblyInfo.cache
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\ASP Lifecycle.RazorAssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\scopedcss\bundle\ASP Lifecycle.styles.css
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\scopedcss\projectbundle\ASP Lifecycle.bundle.scp.css
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\ASP Lifecycle.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\ref\ASP Lifecycle.dll
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\ASP Lifecycle.pdb
+C:\Users\mikey\OneDrive\Desktop\.NET\ASP Lifecycle\ASP Lifecycle\obj\Debug\net6.0\ASP Lifecycle.genruntimeconfig.cache

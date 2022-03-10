@@ -8,49 +8,69 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Identity
 build_property.RootNamespace = Identity
-build_property.ProjectDir = C:\Users\mikey\OneDrive\Desktop\.NET\Identity\
+build_property.ProjectDir = c:\Users\mikey\OneDrive\Desktop\.NET\Identity\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mikey\OneDrive\Desktop\.NET\Identity
+build_property.MSBuildProjectDirectory = c:\Users\mikey\OneDrive\Desktop\.NET\Identity
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mikey/OneDrive/Desktop/.NET/Identity/Areas/Identity/Pages/_ViewStart.cshtml]
+[c:/Users/mikey/OneDrive/Desktop/.NET/Identity/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Home/Index.cshtml]
+[c:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Home/Movies.cshtml]
+[c:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Home/Movies.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb3ZpZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Home/Privacy.cshtml]
+[c:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Shared/Error.cshtml]
+[c:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Shared/_LoginPartial.cshtml]
+[c:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/_ViewImports.cshtml]
+[c:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/_ViewStart.cshtml]
+[c:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Shared/_Layout.cshtml]
+[c:/Users/mikey/OneDrive/Desktop/.NET/Identity/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-elpxs0ehl7
